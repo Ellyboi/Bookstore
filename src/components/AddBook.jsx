@@ -4,7 +4,7 @@ import { addBook } from '../redux/books/bookSlice';
 
 const AddBook = () => {
   const dispatch = useDispatch();
-    const [bookData, setBooks] = useState({
+  const [bookData, setBooks] = useState({
     title: '',
     author: '',
   });
