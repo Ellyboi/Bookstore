@@ -10,7 +10,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
   - [💻 Math-magicians Presentation](#vgs-presentation)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -31,7 +30,7 @@
 
 # 📖 jsCapstone-project <a name="about-project"></a>
 
-> In this project, I build a basic React Math Margicians calculator.
+> In this project, I'm building a Bookstore with react-redux.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -131,8 +130,7 @@ You can deploy this project using:
 - [Netlify](https://charming-nougat-0d03a1.netlify.app/) 
 
 ### Project documentation
-Here is a documentation of our code:
-[video](https://drive.google.com/file/d/1x3A61KS4p-l4cauWAvEhheclVeoLSsdE/view)
+
 <!--
 Example:
 ```sh
@@ -148,8 +146,8 @@ Example:
 👤 **Vitoesi Elijah**
 
  - GitHub: [@Ellyboi](https://github.com/Ellyboi)
-  - Twitter: [@Elijahvitoesi](https://twitter.com/Elijahvitoesi)
-  - LinkedIn: [Vitoesi Elijah](https://www.linkedin.com/in/vitoesi-elijah-61961611a/)
+ - Twitter: [@Elijahvitoesi](https://twitter.com/Elijahvitoesi)
+ - LinkedIn: [Vitoesi Elijah](https://www.linkedin.com/in/vitoesi-elijah-61961611a/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
