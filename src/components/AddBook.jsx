@@ -58,7 +58,7 @@ const AddBook = () => {
             onChange={handleChange}
             required
           />
-          <button type="submit" id="add-book">Add Book</button>
+          <button type="submit" id="add-book">Add book</button>
         </form>
       </div>
     </>
