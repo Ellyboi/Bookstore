@@ -52,13 +52,13 @@ const Book = ({
       <div className={styles.cardRight}>
         <div>
           <div>
-            <p>20%</p>
+            <p>60%</p>
             <p>Completed</p>
           </div>
         </div>
         <div>
           <h3>Current Chapter</h3>
-          <p>Chapter 12</p>
+          <p>Chapter 16</p>
           <Button
             title="Update progress"
             handleClick={() => { }}
