@@ -22,4 +22,3 @@ const booksReducer = createSlice({
 });
 
 export const { addBook, removeBook } = booksReducer.actions;
-export default booksReducer.reducer;
