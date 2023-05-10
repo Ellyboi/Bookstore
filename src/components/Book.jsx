@@ -1,6 +1,6 @@
 import { PropTypes } from 'prop-types';
 import { useDispatch } from 'react-redux';
-import { removeBook } from  "../redux/books/bookSlice";
+import { removeBook } from  '../redux/books/bookSlice';
 import Button from './Buttons';
 
 import styles from '../styles/Book.module.css';
