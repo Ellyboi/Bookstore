@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-// eslint-disable-line
 import { addBook } from '../redux/books/bookSlice';
 
 const AddBook = () => {

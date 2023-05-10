@@ -1,6 +1,5 @@
 import { PropTypes } from 'prop-types';
 import { useDispatch } from 'react-redux';
-// eslint-disable-line
 import { removeBook } from '../redux/books/bookSlice';
 import Button from './Buttons';
 

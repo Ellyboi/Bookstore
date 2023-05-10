@@ -1,5 +1,4 @@
 import { combineReducers, configureStore } from '@reduxjs/toolkit';
-// eslint-disable-line
 import booksReducer from './books/bookSlice';
 import categoriesReducer from './categories/categoriesSlice';
 
