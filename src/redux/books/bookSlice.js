@@ -22,6 +22,7 @@ const initialArray = [
   },
 ];
 
+const apiUrl = 'https://us-central1-bookstore-api-e63c8.cloudfunctions.net/bookstoreApi/apps/cCvZytSi2EJd5lzHEjtZ/';
 
 export const fetchBooks = createAsyncThunk('books/fetchBooks', async () => {
   const res = await axios.get(`${apiUrl}books`);
