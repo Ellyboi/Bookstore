@@ -11,7 +11,7 @@ const Book = ({
   const dispatch = useDispatch();
 
   const handleRemove = (bookId) => {
-    dispatch(removeBook({ id: bookId }));
+    dispatch(removeBook(bookId));
   };
 
   return (
@@ -52,13 +52,13 @@ const Book = ({
       <div className={styles.cardRight}>
         <div>
           <div>
-            <p>60%</p>
+            <p>35%</p>
             <p>Completed</p>
           </div>
         </div>
         <div>
           <h3>Current Chapter</h3>
-          <p>Chapter 16</p>
+          <p>Chapter 54</p>
           <Button
             title="Update progress"
             handleClick={() => { }}
@@ -74,7 +74,7 @@ Book.propTypes = {
   category: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   author: PropTypes.string.isRequired,
-  id: PropTypes.number.isRequired,
+  id: PropTypes.string.isRequired,
 };
 
 export default Book;
