@@ -3,7 +3,7 @@
   align-self: center;
   border-top: solid 1px #e8e8e8;
   height: 20.125rem;
-  margin-top: 25px;
+  margin-top: 30px;
 }
 
 .formTitle {
@@ -43,7 +43,6 @@
 
 .submitBtn {
   border: none;
-  width: 19.813rem;
   letter-spacing: 0.5px;
   height: 2.7rem;
   color: #fff;
