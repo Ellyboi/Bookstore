@@ -28,7 +28,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 jsCapstone-project <a name="about-project"></a>
+# 📖 React-Redux-project <a name="about-project"></a>
 
 > In this project, I'm building a Bookstore with react-redux.
 ## 🛠 Built With <a name="built-with"></a>
