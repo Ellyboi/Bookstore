@@ -10,4 +10,6 @@ body {
   font-family: 'Montserrat', 'Arial', sans-serif;
   overflow-x: hidden;
   font-size: 100%;
+  border: 1px solid #d8d5d5;
+  background-color: #e9e4e4c9;
 }
