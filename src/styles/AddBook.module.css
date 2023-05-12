@@ -1,8 +1,9 @@
 .formContainer {
-  margin: 10% 8%;
+  margin: 8%;
   align-self: center;
   border-top: solid 1px #e8e8e8;
   height: 20.125rem;
+  margin-top: 25px;
 }
 
 .formTitle {
@@ -20,7 +21,7 @@
 }
 
 .titleInput {
-  width: 33rem;
+  width: 36rem;
   height: 2.813rem;
   margin-left: -0.4%;
   margin-right: 1%;
@@ -31,18 +32,20 @@
 }
 
 .authorInput {
-  width: 17.813rem;
+  width: 18.813rem;
   height: 2.813rem;
   padding: 1rem;
   border-radius: 4px;
   border: solid 1px #e8e8e8;
   background-color: #fff;
+  margin-left: 1%;
 }
 
 .submitBtn {
   border: none;
+  width: 19.813rem;
   letter-spacing: 0.5px;
-  height: 2.813rem;
+  height: 2.7rem;
   color: #fff;
   cursor: pointer;
   width: 9rem;
@@ -51,7 +54,7 @@
   font-family: 'Roboto Slab', serif;
   padding: 12px;
   border-radius: 3px;
-  margin-left: 1%;
+  margin-left: 2%;
   text-transform: uppercase;
   margin-top: 1%;
 }
