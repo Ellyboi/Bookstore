@@ -147,7 +147,7 @@ Example:
 
  - GitHub: [@Ellyboi](https://github.com/Ellyboi)
  - Twitter: [@Elijahvitoesi](https://twitter.com/Elijahvitoesi)
- - LinkedIn: [Vitoesi Elijah](https://www.linkedin.com/in/vitoesi-elijah-61961611a/)
+ - LinkedIn: [Vitoesi Elijah](https://www.linkedin.com/in/elijah-vitoesi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
